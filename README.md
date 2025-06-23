@@ -1,4 +1,4 @@
-# Google-AI-Assistants-with-Gemma
+# Google AI Assistant for Data Tasks using Gemma
 
 Developed using
 1. Keras and KerasNLP
